@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Roblog</title><link href="http://robschaber.com/" rel="alternate"></link><link href="http://robschaber.com/atom.xml" rel="self"></link><id>http://robschaber.com/</id><updated>2014-09-16T16:17:00-05:00</updated><entry><title>Sample Post</title><link href="http://robschaber.com/sample-post/" rel="alternate"></link><updated>2014-09-16T16:17:00-05:00</updated><author><name>Rob Schaber</name></author><id>tag:robschaber.com,2014-09-16:sample-post/</id><summary type="html">&lt;h1&gt;this is a sample post&lt;/h1&gt;
+&lt;p&gt;here is some postish stuff for this sample post.
+here is more postish stuff.&lt;/p&gt;</summary><category term="stuff"></category><category term="things"></category></entry></feed>
